@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       Iconic Delivery Slots [Fish and Ships]
- * Plugin URI:        https://github.com/iconicwp/iconic-woo-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-fish-and-ships
- * Description:       Compatibility between Iconic Delivery Slots and Fish and Ships by wpcentrics.
- * Author:            Iconic
- * Author URI:        https://iconicwp.com/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-fish-and-ships
+ * Plugin Name:       Kadence Delivery Slots [Fish and Ships]
+ * Plugin URI:        https://github.com/stellarwp/kadence-woo-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-fish-and-ships
+ * Description:       Compatibility between Kadence Delivery Slots and Fish and Ships by wpcentrics.
+ * Author:            Kadence WP
+ * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-35291
  * Domain Path:       /languages
  * Version:           0.1.0
- * GitHub Plugin URI: iconicwp/iconic-woo-compat-template
+ * GitHub Plugin URI: stellarwp/kadence-woo-compat-template
  */
 
 /**
