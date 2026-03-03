@@ -3,7 +3,7 @@
  * Plugin Name:       Kadence Delivery Slots [Fish and Ships]
  * Plugin URI:        https://github.com/stellarwp/kadence-woo-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-fish-and-ships
  * Description:       Compatibility between Kadence Delivery Slots and Fish and Ships by wpcentrics.
- * Author:            Kadence WP
+ * Author:            Kadence
  * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-35291
  * Domain Path:       /languages
